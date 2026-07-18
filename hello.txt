@@ -1,2 +1,3 @@
 Hello Bro!
 Learning Git with ChatGPT 🚀
+Today I learned Git!
